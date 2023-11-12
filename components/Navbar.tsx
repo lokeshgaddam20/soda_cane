@@ -3,7 +3,7 @@ import Image from 'next/image'
 import React from 'react'
 
 const navIcons = [
-  {src:'/assests/icons/search.pvg', alt:'search'},
+  {src:'/assests/icons/search.svg', alt:'search'},
   {src:'/assests/icons/black-heart.svg', alt:'heart'},
   {src:'/assests/icons/user.svg', alt:'user'},
 ]
